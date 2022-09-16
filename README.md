@@ -16,4 +16,4 @@ composer install
 symfony serve
 ```
 
-<img src="e-commerce.gif" height="200px" alt="e-commerceGIF">
+<img align="center" src="e-commerce.gif" height="200px" alt="e-commerceGIF">
