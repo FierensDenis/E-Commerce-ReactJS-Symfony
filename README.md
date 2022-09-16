@@ -15,6 +15,6 @@ dossier Back :
 composer install
 symfony serve
 ```
-<div style="text-align:center">
-    <img src="e-commerce.gif" height="200px" alt="e-commerceGIF">
-</div>
+<p align="center">
+    <img align="center" src="e-commerce.gif" height="200px" alt="e-commerceGIF">
+</p>
